@@ -6,7 +6,7 @@ Alien Game for ITMO Python Course.
 ```bash
 virtualenv -p python3 game-venv
 source game-venv/bin/activate
-pip install - requirements.txt
+pip install -r requirements.txt
 ```
 
 
